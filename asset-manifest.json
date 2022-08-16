@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hardwareStore/static/css/main.b81b6ecb.css",
+    "main.js": "/hardwareStore/static/js/main.95718501.js",
+    "static/js/787.1e943069.chunk.js": "/hardwareStore/static/js/787.1e943069.chunk.js",
+    "static/media/banner.png": "/hardwareStore/static/media/banner.954cb08d871f31935112.png",
+    "static/media/fasad.png": "/hardwareStore/static/media/fasad.4193cf8491dd7c168a11.png",
+    "static/media/hovli.png": "/hardwareStore/static/media/hovli.3f0f001253201831c963.png",
+    "static/media/Enteryer.png": "/hardwareStore/static/media/Enteryer.3a89eb414fab051a9b57.png",
+    "static/media/Window.png": "/hardwareStore/static/media/Window.42aacb5b2ae564f599ae.png",
+    "static/media/material.png": "/hardwareStore/static/media/material.f92592ca4562bf499ff2.png",
+    "static/media/Door.png": "/hardwareStore/static/media/Door.a99b5ef6299b5fd22e4f.png",
+    "static/media/BaiJamjuree-Regular.ttf": "/hardwareStore/static/media/BaiJamjuree-Regular.9d380f3b06b1a6ce92c0.ttf",
+    "static/media/Shift.png": "/hardwareStore/static/media/Shift.441f763796ef256221b5.png",
+    "static/media/pedra.png": "/hardwareStore/static/media/pedra.ef7f9e1a9a028219d3dc.png",
+    "static/media/azulejo.png": "/hardwareStore/static/media/azulejo.c89e0c36ece4d0d31a01.png",
+    "static/media/metal.png": "/hardwareStore/static/media/metal.be9575d307def970ee43.png",
+    "static/media/chevra.png": "/hardwareStore/static/media/chevra.b566a6a477d6f456bc5f.png",
+    "static/media/tejolo.png": "/hardwareStore/static/media/tejolo.f2ea6208eb4e2426762d.png",
+    "static/media/concreto.png": "/hardwareStore/static/media/concreto.635ca191135b344da7b3.png",
+    "static/media/marmar.png": "/hardwareStore/static/media/marmar.6aa83bff0f29b632b1d9.png",
+    "static/media/Door3.webp": "/hardwareStore/static/media/Door3.ce53b9a1c060338300e1.webp",
+    "static/media/Door1.webp": "/hardwareStore/static/media/Door1.2df6ca9ac434978b8a48.webp",
+    "index.html": "/hardwareStore/index.html",
+    "main.b81b6ecb.css.map": "/hardwareStore/static/css/main.b81b6ecb.css.map",
+    "main.95718501.js.map": "/hardwareStore/static/js/main.95718501.js.map",
+    "787.1e943069.chunk.js.map": "/hardwareStore/static/js/787.1e943069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81b6ecb.css",
+    "static/js/main.95718501.js"
+  ]
+}
